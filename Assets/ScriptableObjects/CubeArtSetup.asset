@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15fd1f212f67a1e4a92cfa7dd8b7881b, type: 3}
+  m_Name: CubeArtSetup
+  m_EditorClassIdentifier: 
+  _materials:
+  - {fileID: 2100000, guid: c2f8f530fac80494b89167ee939c5383, type: 2}
+  - {fileID: 2100000, guid: 24ae114b83ffceb4e95b56e9f1ba8ba7, type: 2}
+  - {fileID: 2100000, guid: ec12c11efae8b8a49b3b7e70af83fab1, type: 2}
+  - {fileID: 2100000, guid: f37d0e4dd3adeb145b6c9dfb72af2a16, type: 2}
+  - {fileID: 2100000, guid: 3506d0f85e7a4174c8a395a8878fba6a, type: 2}
+  - {fileID: 2100000, guid: 2a7b3ff857b5c6348a061b4bacfa66ca, type: 2}
+  _namedMaterials:
+  - Id: Water
+    Material: {fileID: 2100000, guid: c2f8f530fac80494b89167ee939c5383, type: 2}
+  - Id: Earth
+    Material: {fileID: 2100000, guid: 2a7b3ff857b5c6348a061b4bacfa66ca, type: 2}
+  - Id: Fire
+    Material: {fileID: 2100000, guid: 632ca932d5902bb4b84216d46ec78994, type: 2}
+  - Id: Air
+    Material: {fileID: 2100000, guid: 67270adb3f8744b488d4f55040d527c3, type: 2}
